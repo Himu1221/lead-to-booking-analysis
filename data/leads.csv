@@ -1,0 +1,361 @@
+lead_id,created_at,source,service,owner
+L0001,2026-01-16T14:52,Social media,Move-out clean,Team C
+L0002,2026-03-24T17:53,Phone,Move-out clean,Team B
+L0003,2026-02-24T16:23,Phone,Deep clean,Team C
+L0004,2026-04-24T17:00,Social media,Deep clean,Team B
+L0005,2026-02-20T10:30,Website,Move-out clean,Team A
+L0006,2026-06-21T11:55,Website,Move-out clean,Team A
+L0007,2026-06-24T11:54,Website,Move-out clean,Team A
+L0008,2026-02-19T11:02,Referral,Deep clean,Team C
+L0009,2026-03-08T09:08,Website,Deep clean,Team B
+L0010,2026-01-11T13:46,Social media,Move-out clean,Team C
+L0011,2026-01-10T08:08,Phone,Move-out clean,Team A
+L0012,2026-04-27T09:41,Social media,Deep clean,Team A
+L0013,2026-04-28T09:26,Referral,Move-out clean,Team A
+L0014,2026-06-08T16:49,Website,Move-out clean,Team C
+L0015,2026-03-08T08:44,Phone,Move-out clean,Team C
+L0016,2026-05-23T08:42,Referral,Move-out clean,Team B
+L0017,2026-06-07T16:08,Social media,Recurring clean,Team C
+L0018,2026-06-18T11:35,Referral,Move-out clean,Team B
+L0019,2026-04-16T13:35,Social media,Move-out clean,Team B
+L0020,2026-04-09T08:06,Referral,Move-out clean,Team C
+L0021,2026-04-04T08:49,Social media,Recurring clean,Team C
+L0022,2026-06-30T12:21,Referral,Recurring clean,Team A
+L0023,2026-01-31T17:38,Phone,Deep clean,Team A
+L0024,2026-06-28T17:57,Referral,Deep clean,Team C
+L0025,2026-01-23T10:02,Social media,Deep clean,Team B
+L0026,2026-04-25T15:15,Website,Deep clean,Team A
+L0027,2026-05-16T15:51,Website,Move-out clean,Team B
+L0028,2026-01-08T16:07,Social media,Deep clean,Team C
+L0029,2026-01-19T09:10,Referral,Move-out clean,Team C
+L0030,2026-01-07T16:24,Website,Deep clean,Team A
+L0031,2026-02-09T17:58,Phone,Recurring clean,Team C
+L0032,2026-01-11T17:09,Social media,Recurring clean,Team A
+L0033,2026-06-09T09:15,Social media,Deep clean,Team A
+L0034,2026-05-03T15:56,Social media,Deep clean,Team C
+L0035,2026-03-05T11:19,Social media,Recurring clean,Team A
+L0036,2026-03-27T17:42,Social media,Recurring clean,Team B
+L0037,2026-02-01T11:49,Phone,Move-out clean,Team B
+L0038,2026-01-08T12:50,Phone,Deep clean,Team A
+L0039,2026-05-17T16:05,Phone,Move-out clean,Team B
+L0040,2026-05-20T09:12,Social media,Deep clean,Team C
+L0041,2026-05-19T08:42,Website,Move-out clean,Team B
+L0042,2026-04-19T16:45,Referral,Move-out clean,Team C
+L0043,2026-04-27T16:56,Phone,Move-out clean,Team B
+L0044,2026-05-17T13:51,Referral,Recurring clean,Team C
+L0045,2026-01-26T11:37,Website,Move-out clean,Team B
+L0046,2026-03-09T13:31,Phone,Recurring clean,Team A
+L0047,2026-02-25T17:08,Website,Recurring clean,Team A
+L0048,2026-06-04T10:41,Phone,Recurring clean,Team B
+L0049,2026-03-25T17:46,Referral,Deep clean,Team C
+L0050,2026-03-29T12:27,Phone,Move-out clean,Team C
+L0051,2026-05-21T13:18,Social media,Move-out clean,Team C
+L0052,2026-02-22T10:59,Website,Move-out clean,Team B
+L0053,2026-02-11T12:34,Social media,Recurring clean,Team A
+L0054,2026-02-11T09:07,Phone,Deep clean,Team B
+L0055,2026-02-08T13:52,Social media,Deep clean,Team C
+L0056,2026-01-18T16:04,Referral,Deep clean,Team A
+L0057,2026-04-28T10:15,Social media,Recurring clean,Team B
+L0058,2026-01-26T17:13,Phone,Move-out clean,Team B
+L0059,2026-02-14T14:46,Phone,Deep clean,Team C
+L0060,2026-02-15T13:38,Referral,Move-out clean,Team C
+L0061,2026-01-19T17:55,Social media,Deep clean,Team C
+L0062,2026-01-28T10:25,Website,Recurring clean,Team B
+L0063,2026-02-10T14:37,Referral,Deep clean,Team C
+L0064,2026-02-04T11:29,Website,Deep clean,Team C
+L0065,2026-04-08T17:06,Referral,Move-out clean,Team B
+L0066,2026-05-06T08:49,Website,Deep clean,Team C
+L0067,2026-06-15T12:30,Website,Deep clean,Team C
+L0068,2026-02-05T16:45,Phone,Deep clean,Team B
+L0069,2026-05-11T08:09,Website,Recurring clean,Team B
+L0070,2026-06-12T12:16,Social media,Recurring clean,Team C
+L0071,2026-03-21T14:53,Website,Deep clean,Team C
+L0072,2026-02-17T11:48,Social media,Deep clean,Team C
+L0073,2026-06-12T16:28,Social media,Move-out clean,Team B
+L0074,2026-01-22T12:25,Referral,Deep clean,Team A
+L0075,2026-05-01T15:04,Website,Deep clean,Team B
+L0076,2026-03-08T14:10,Referral,Deep clean,Team A
+L0077,2026-06-20T17:13,Referral,Deep clean,Team A
+L0078,2026-03-09T10:15,Website,Move-out clean,Team C
+L0079,2026-05-18T16:52,Social media,Move-out clean,Team A
+L0080,2026-03-28T14:57,Website,Recurring clean,Team C
+L0081,2026-02-21T09:01,Social media,Deep clean,Team C
+L0082,2026-04-15T17:53,Social media,Move-out clean,Team A
+L0083,2026-02-11T14:16,Phone,Recurring clean,Team C
+L0084,2026-03-17T08:22,Referral,Deep clean,Team A
+L0085,2026-04-03T13:52,Social media,Deep clean,Team A
+L0086,2026-01-24T11:53,Referral,Deep clean,Team A
+L0087,2026-03-29T12:43,Social media,Deep clean,Team C
+L0088,2026-03-24T10:46,Social media,Deep clean,Team B
+L0089,2026-01-01T11:48,Phone,Move-out clean,Team B
+L0090,2026-06-12T12:42,Website,Deep clean,Team C
+L0091,2026-04-15T11:14,Social media,Deep clean,Team C
+L0092,2026-01-14T09:23,Website,Move-out clean,Team C
+L0093,2026-01-02T15:28,Website,Recurring clean,Team B
+L0094,2026-03-02T09:23,Social media,Deep clean,Team C
+L0095,2026-01-06T14:05,Referral,Deep clean,Team C
+L0096,2026-02-11T10:44,Website,Deep clean,Team B
+L0097,2026-02-06T11:50,Phone,Deep clean,Team B
+L0098,2026-02-03T17:49,Website,Recurring clean,Team B
+L0099,2026-01-05T09:39,Referral,Move-out clean,Team C
+L0100,2026-02-11T13:07,Referral,Recurring clean,Team C
+L0101,2026-03-07T17:00,Social media,Move-out clean,Team A
+L0102,2026-03-25T15:43,Website,Deep clean,Team A
+L0103,2026-05-09T10:45,Website,Deep clean,Team B
+L0104,2026-01-28T16:16,Social media,Deep clean,Team B
+L0105,2026-03-23T12:04,Referral,Move-out clean,Team C
+L0106,2026-06-06T14:35,Phone,Deep clean,Team B
+L0107,2026-05-01T13:58,Website,Move-out clean,Team B
+L0108,2026-05-26T14:30,Website,Recurring clean,Team A
+L0109,2026-01-28T13:18,Phone,Deep clean,Team B
+L0110,2026-01-24T08:34,Phone,Deep clean,Team C
+L0111,2026-04-09T14:20,Phone,Deep clean,Team A
+L0112,2026-01-13T08:48,Website,Recurring clean,Team C
+L0113,2026-03-28T09:08,Referral,Deep clean,Team A
+L0114,2026-03-26T11:07,Referral,Recurring clean,Team A
+L0115,2026-01-15T12:09,Website,Move-out clean,Team C
+L0116,2026-04-24T17:41,Phone,Recurring clean,Team B
+L0117,2026-06-10T14:06,Phone,Deep clean,Team C
+L0118,2026-06-03T08:33,Social media,Deep clean,Team C
+L0119,2026-05-02T08:52,Phone,Deep clean,Team C
+L0120,2026-05-09T12:53,Website,Deep clean,Team A
+L0121,2026-05-15T08:10,Website,Deep clean,Team A
+L0122,2026-02-23T12:30,Phone,Move-out clean,Team A
+L0123,2026-05-27T14:57,Website,Deep clean,Team A
+L0124,2026-03-30T15:06,Phone,Deep clean,Team A
+L0125,2026-05-22T17:00,Website,Recurring clean,Team C
+L0126,2026-03-03T12:07,Phone,Recurring clean,Team A
+L0127,2026-06-05T13:32,Phone,Deep clean,Team B
+L0128,2026-01-08T09:36,Social media,Deep clean,Team C
+L0129,2026-04-06T08:00,Referral,Move-out clean,Team A
+L0130,2026-02-08T10:49,Website,Move-out clean,Team A
+L0131,2026-05-26T17:02,Social media,Deep clean,Team B
+L0132,2026-01-03T17:14,Phone,Deep clean,Team B
+L0133,2026-03-05T17:08,Referral,Recurring clean,Team A
+L0134,2026-03-18T13:29,Website,Deep clean,Team B
+L0135,2026-01-28T16:24,Social media,Deep clean,Team A
+L0136,2026-03-12T17:41,Website,Recurring clean,Team B
+L0137,2026-03-30T08:31,Phone,Deep clean,Team C
+L0138,2026-06-27T08:46,Referral,Deep clean,Team C
+L0139,2026-03-20T12:48,Referral,Deep clean,Team B
+L0140,2026-03-01T16:28,Website,Deep clean,Team B
+L0141,2026-01-13T14:36,Phone,Deep clean,Team A
+L0142,2026-04-16T15:45,Website,Recurring clean,Team B
+L0143,2026-05-30T16:24,Referral,Deep clean,Team C
+L0144,2026-06-18T17:21,Social media,Move-out clean,Team A
+L0145,2026-01-29T13:36,Website,Move-out clean,Team C
+L0146,2026-02-10T16:58,Social media,Move-out clean,Team C
+L0147,2026-05-28T13:28,Referral,Deep clean,Team C
+L0148,2026-01-22T12:40,Website,Recurring clean,Team A
+L0149,2026-01-24T16:25,Website,Move-out clean,Team C
+L0150,2026-01-20T16:23,Website,Deep clean,Team B
+L0151,2026-04-15T15:37,Website,Move-out clean,Team A
+L0152,2026-01-19T15:00,Phone,Deep clean,Team A
+L0153,2026-05-04T11:09,Website,Move-out clean,Team B
+L0154,2026-05-09T17:27,Phone,Deep clean,Team C
+L0155,2026-04-06T16:28,Website,Move-out clean,Team C
+L0156,2026-04-06T10:46,Referral,Move-out clean,Team A
+L0157,2026-05-20T14:09,Referral,Deep clean,Team C
+L0158,2026-03-22T17:14,Referral,Move-out clean,Team C
+L0159,2026-06-19T10:07,Social media,Deep clean,Team A
+L0160,2026-02-23T17:09,Referral,Recurring clean,Team B
+L0161,2026-04-23T15:44,Website,Move-out clean,Team A
+L0162,2026-02-18T11:49,Phone,Recurring clean,Team C
+L0163,2026-02-07T15:31,Phone,Deep clean,Team C
+L0164,2026-02-15T17:50,Referral,Move-out clean,Team B
+L0165,2026-05-01T08:23,Phone,Move-out clean,Team B
+L0166,2026-01-07T16:00,Social media,Recurring clean,Team A
+L0167,2026-06-20T11:23,Website,Deep clean,Team B
+L0168,2026-01-11T16:32,Website,Deep clean,Team C
+L0169,2026-05-28T09:59,Phone,Recurring clean,Team C
+L0170,2026-01-21T17:31,Phone,Move-out clean,Team A
+L0171,2026-05-28T08:00,Phone,Move-out clean,Team B
+L0172,2026-01-17T15:49,Social media,Move-out clean,Team A
+L0173,2026-02-18T17:06,Phone,Recurring clean,Team A
+L0174,2026-01-14T12:18,Website,Recurring clean,Team A
+L0175,2026-03-16T12:46,Referral,Deep clean,Team B
+L0176,2026-02-19T17:09,Social media,Deep clean,Team A
+L0177,2026-01-16T11:14,Referral,Move-out clean,Team B
+L0178,2026-06-15T10:53,Referral,Move-out clean,Team B
+L0179,2026-04-20T15:36,Phone,Move-out clean,Team B
+L0180,2026-01-15T10:28,Website,Recurring clean,Team C
+L0181,2026-01-21T15:19,Website,Recurring clean,Team B
+L0182,2026-01-01T08:56,Social media,Recurring clean,Team C
+L0183,2026-05-14T14:57,Social media,Deep clean,Team A
+L0184,2026-05-27T10:35,Phone,Move-out clean,Team C
+L0185,2026-06-14T11:41,Referral,Recurring clean,Team A
+L0186,2026-04-03T17:37,Website,Deep clean,Team A
+L0187,2026-05-29T08:25,Referral,Recurring clean,Team B
+L0188,2026-06-10T14:37,Social media,Deep clean,Team C
+L0189,2026-04-14T17:13,Referral,Deep clean,Team C
+L0190,2026-02-19T14:54,Social media,Move-out clean,Team C
+L0191,2026-06-02T14:54,Phone,Recurring clean,Team A
+L0192,2026-02-20T08:06,Phone,Move-out clean,Team C
+L0193,2026-06-22T08:48,Phone,Move-out clean,Team C
+L0194,2026-04-12T11:20,Website,Recurring clean,Team B
+L0195,2026-01-31T10:25,Referral,Move-out clean,Team B
+L0196,2026-03-25T17:19,Website,Recurring clean,Team A
+L0197,2026-06-21T15:40,Social media,Recurring clean,Team B
+L0198,2026-06-05T08:30,Phone,Deep clean,Team B
+L0199,2026-06-17T09:15,Website,Recurring clean,Team A
+L0200,2026-01-20T16:04,Phone,Recurring clean,Team C
+L0201,2026-03-31T12:07,Website,Deep clean,Team A
+L0202,2026-05-26T16:48,Referral,Move-out clean,Team B
+L0203,2026-02-16T12:48,Social media,Recurring clean,Team C
+L0204,2026-03-15T14:49,Referral,Recurring clean,Team C
+L0205,2026-03-01T16:39,Phone,Move-out clean,Team A
+L0206,2026-03-30T08:58,Referral,Recurring clean,Team C
+L0207,2026-05-22T16:15,Phone,Recurring clean,Team C
+L0208,2026-05-24T15:28,Social media,Deep clean,Team B
+L0209,2026-02-06T12:42,Phone,Recurring clean,Team C
+L0210,2026-01-13T08:37,Referral,Move-out clean,Team C
+L0211,2026-03-26T12:55,Referral,Recurring clean,Team B
+L0212,2026-05-31T12:57,Referral,Deep clean,Team B
+L0213,2026-02-06T11:57,Referral,Recurring clean,Team B
+L0214,2026-01-04T17:48,Referral,Recurring clean,Team B
+L0215,2026-05-05T14:24,Phone,Deep clean,Team A
+L0216,2026-02-11T16:21,Social media,Deep clean,Team A
+L0217,2026-03-11T15:19,Phone,Move-out clean,Team C
+L0218,2026-05-14T14:10,Social media,Recurring clean,Team C
+L0219,2026-05-22T14:55,Social media,Deep clean,Team B
+L0220,2026-04-24T09:11,Website,Deep clean,Team B
+L0221,2026-06-16T10:21,Social media,Deep clean,Team C
+L0222,2026-03-27T11:37,Website,Deep clean,Team B
+L0223,2026-05-10T11:46,Referral,Recurring clean,Team A
+L0224,2026-05-08T14:53,Phone,Deep clean,Team A
+L0225,2026-04-26T14:03,Phone,Deep clean,Team A
+L0226,2026-02-19T16:03,Website,Deep clean,Team B
+L0227,2026-04-13T11:48,Website,Move-out clean,Team B
+L0228,2026-01-11T16:58,Website,Deep clean,Team B
+L0229,2026-02-07T14:33,Referral,Move-out clean,Team B
+L0230,2026-06-26T13:35,Social media,Move-out clean,Team A
+L0231,2026-01-23T10:12,Social media,Move-out clean,Team A
+L0232,2026-06-24T08:36,Social media,Move-out clean,Team B
+L0233,2026-03-12T10:27,Social media,Move-out clean,Team A
+L0234,2026-04-14T13:14,Website,Recurring clean,Team C
+L0235,2026-06-07T16:44,Website,Move-out clean,Team C
+L0236,2026-01-27T10:49,Social media,Recurring clean,Team B
+L0237,2026-03-24T16:37,Social media,Move-out clean,Team B
+L0238,2026-06-22T10:56,Website,Move-out clean,Team B
+L0239,2026-02-05T09:58,Referral,Move-out clean,Team C
+L0240,2026-02-11T13:15,Phone,Deep clean,Team B
+L0241,2026-01-19T08:31,Phone,Recurring clean,Team B
+L0242,2026-03-24T16:46,Referral,Recurring clean,Team A
+L0243,2026-06-20T15:11,Social media,Move-out clean,Team C
+L0244,2026-02-12T12:15,Phone,Deep clean,Team B
+L0245,2026-04-25T08:09,Website,Deep clean,Team C
+L0246,2026-03-21T16:06,Referral,Move-out clean,Team B
+L0247,2026-04-15T14:21,Phone,Deep clean,Team A
+L0248,2026-01-14T08:19,Referral,Recurring clean,Team A
+L0249,2026-04-28T17:24,Social media,Deep clean,Team C
+L0250,2026-05-07T11:10,Phone,Recurring clean,Team B
+L0251,2026-06-15T16:43,Website,Deep clean,Team A
+L0252,2026-06-07T15:18,Website,Move-out clean,Team C
+L0253,2026-05-29T10:50,Phone,Move-out clean,Team C
+L0254,2026-03-13T16:10,Referral,Deep clean,Team C
+L0255,2026-04-11T09:05,Referral,Move-out clean,Team B
+L0256,2026-04-09T11:13,Phone,Move-out clean,Team A
+L0257,2026-01-03T14:42,Website,Move-out clean,Team C
+L0258,2026-05-11T11:40,Referral,Recurring clean,Team A
+L0259,2026-05-02T09:13,Referral,Deep clean,Team A
+L0260,2026-04-07T16:20,Phone,Move-out clean,Team A
+L0261,2026-03-18T15:18,Social media,Recurring clean,Team C
+L0262,2026-02-08T12:19,Website,Recurring clean,Team C
+L0263,2026-05-22T12:35,Phone,Deep clean,Team A
+L0264,2026-05-05T14:59,Phone,Move-out clean,Team C
+L0265,2026-03-03T15:18,Website,Move-out clean,Team B
+L0266,2026-02-02T09:01,Social media,Deep clean,Team A
+L0267,2026-05-31T08:50,Website,Move-out clean,Team A
+L0268,2026-06-21T10:11,Referral,Move-out clean,Team A
+L0269,2026-05-24T16:04,Website,Move-out clean,Team B
+L0270,2026-02-21T11:59,Phone,Recurring clean,Team A
+L0271,2026-02-25T08:11,Referral,Recurring clean,Team C
+L0272,2026-06-11T13:24,Social media,Move-out clean,Team B
+L0273,2026-01-09T17:57,Website,Move-out clean,Team C
+L0274,2026-03-10T09:18,Referral,Deep clean,Team C
+L0275,2026-04-28T15:54,Phone,Recurring clean,Team C
+L0276,2026-02-07T15:49,Website,Move-out clean,Team B
+L0277,2026-03-26T13:32,Phone,Deep clean,Team A
+L0278,2026-05-06T16:51,Social media,Deep clean,Team C
+L0279,2026-03-02T17:59,Referral,Deep clean,Team B
+L0280,2026-04-12T11:09,Website,Deep clean,Team C
+L0281,2026-06-24T15:56,Phone,Recurring clean,Team A
+L0282,2026-06-07T16:05,Phone,Deep clean,Team C
+L0283,2026-05-18T10:21,Social media,Move-out clean,Team A
+L0284,2026-02-16T16:57,Website,Recurring clean,Team C
+L0285,2026-03-03T10:07,Website,Recurring clean,Team B
+L0286,2026-02-26T10:08,Website,Deep clean,Team B
+L0287,2026-05-28T14:41,Phone,Move-out clean,Team C
+L0288,2026-04-14T16:43,Social media,Deep clean,Team C
+L0289,2026-04-05T15:07,Phone,Recurring clean,Team C
+L0290,2026-05-29T14:25,Website,Deep clean,Team B
+L0291,2026-05-11T15:34,Social media,Recurring clean,Team C
+L0292,2026-06-20T09:27,Referral,Recurring clean,Team B
+L0293,2026-05-18T14:55,Referral,Move-out clean,Team A
+L0294,2026-03-27T09:37,Phone,Recurring clean,Team C
+L0295,2026-01-11T10:53,Phone,Move-out clean,Team B
+L0296,2026-01-24T14:53,Phone,Recurring clean,Team A
+L0297,2026-04-18T12:23,Phone,Move-out clean,Team C
+L0298,2026-06-16T14:00,Social media,Move-out clean,Team C
+L0299,2026-02-25T14:46,Website,Move-out clean,Team B
+L0300,2026-01-08T17:35,Referral,Move-out clean,Team B
+L0301,2026-06-14T17:49,Social media,Recurring clean,Team B
+L0302,2026-04-11T14:22,Phone,Deep clean,Team C
+L0303,2026-02-09T12:02,Referral,Recurring clean,Team A
+L0304,2026-01-05T14:17,Referral,Move-out clean,Team A
+L0305,2026-03-25T14:35,Website,Recurring clean,Team A
+L0306,2026-02-26T14:23,Social media,Move-out clean,Team A
+L0307,2026-06-24T13:11,Social media,Move-out clean,Team B
+L0308,2026-03-13T17:55,Website,Deep clean,Team B
+L0309,2026-01-29T14:14,Social media,Move-out clean,Team B
+L0310,2026-02-27T17:42,Website,Recurring clean,Team B
+L0311,2026-02-05T13:15,Website,Recurring clean,Team B
+L0312,2026-02-27T14:52,Referral,Deep clean,Team B
+L0313,2026-05-08T14:21,Social media,Deep clean,Team C
+L0314,2026-03-19T09:39,Referral,Recurring clean,Team B
+L0315,2026-01-28T08:23,Referral,Deep clean,Team A
+L0316,2026-06-16T13:58,Social media,Recurring clean,Team A
+L0317,2026-01-17T09:19,Phone,Deep clean,Team C
+L0318,2026-06-24T12:09,Referral,Deep clean,Team B
+L0319,2026-03-29T17:58,Phone,Recurring clean,Team A
+L0320,2026-06-02T10:54,Referral,Move-out clean,Team C
+L0321,2026-05-01T09:47,Social media,Deep clean,Team C
+L0322,2026-06-21T09:54,Referral,Move-out clean,Team B
+L0323,2026-02-25T14:57,Referral,Move-out clean,Team C
+L0324,2026-05-29T09:43,Social media,Deep clean,Team A
+L0325,2026-05-08T08:42,Referral,Deep clean,Team B
+L0326,2026-02-15T09:47,Social media,Move-out clean,Team C
+L0327,2026-02-05T14:37,Website,Recurring clean,Team B
+L0328,2026-05-20T14:26,Social media,Move-out clean,Team C
+L0329,2026-02-05T17:39,Phone,Deep clean,Team B
+L0330,2026-02-18T10:33,Social media,Deep clean,Team A
+L0331,2026-06-25T13:47,Social media,Recurring clean,Team A
+L0332,2026-02-13T17:57,Social media,Recurring clean,Team B
+L0333,2026-06-01T16:18,Referral,Move-out clean,Team A
+L0334,2026-05-22T16:32,Phone,Recurring clean,Team B
+L0335,2026-06-26T11:27,Referral,Recurring clean,Team A
+L0336,2026-04-17T12:52,Social media,Recurring clean,Team B
+L0337,2026-01-26T16:07,Phone,Deep clean,Team B
+L0338,2026-01-01T17:17,Website,Move-out clean,Team C
+L0339,2026-03-24T15:56,Phone,Recurring clean,Team C
+L0340,2026-04-12T13:20,Social media,Move-out clean,Team B
+L0341,2026-01-31T15:35,Referral,Deep clean,Team B
+L0342,2026-04-04T13:38,Phone,Deep clean,Team A
+L0343,2026-05-11T08:06,Social media,Deep clean,Team B
+L0344,2026-05-07T11:01,Social media,Deep clean,Team B
+L0345,2026-03-31T14:39,Website,Deep clean,Team B
+L0346,2026-04-06T13:32,Referral,Deep clean,Team A
+L0347,2026-03-26T14:52,Website,Deep clean,Team A
+L0348,2026-06-22T13:41,Referral,Recurring clean,Team C
+L0349,2026-05-26T09:36,Website,Deep clean,Team A
+L0350,2026-04-28T13:57,Website,Move-out clean,Team A
+L0351,2026-04-19T10:17,Referral,Deep clean,Team A
+L0352,2026-05-09T13:49,Referral,Move-out clean,Team B
+L0353,2026-01-21T16:34,Phone,Move-out clean,Team C
+L0354,2026-02-03T15:47,Social media,Deep clean,Team C
+L0355,2026-03-18T13:20,Referral,Deep clean,Team B
+L0356,2026-05-10T12:22,Referral,Deep clean,Team B
+L0357,2026-05-13T09:15,Website,Move-out clean,Team C
+L0358,2026-01-29T15:58,Website,Move-out clean,Team B
+L0359,2026-04-25T15:35,Website,Recurring clean,Team B
+L0360,2026-02-19T10:22,Referral,Recurring clean,Team B

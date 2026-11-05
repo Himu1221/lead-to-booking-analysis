@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "snapshot": "2026-07-31T23:59:59",
+    "simulation_seed": 1221,
+    "source": "Included deterministic simulation; no external data",
+    "source_checksums": {
+      "activities.csv": "fd17ba59f05b67e22ef8314041e014b94d59fa143853b17b6a77cab919ab9018",
+      "bookings.csv": "c00ad2cad258afe969ea7138ad5ad52535b50786ab59a7a0a81da8c83ad2f01e",
+      "leads.csv": "9be9e1714b4ca2a6044fd3148f0aabcaf69c234f4b6a386f8b9b3c6f50d40f49",
+      "quotes.csv": "782dfbc61374c089b4976426eceaa6a97240d074a3267212bc75c60a7c80567c"
+    },
+    "grain": "One row per originating lead; events rolled up before joins",
+    "validation": "Input keys, completeness, timestamps, sequence, funnel grain, stage ordering, and grouped reconciliation passed"
+  },
+  "summary": {
+    "leads": 360,
+    "responded": 323,
+    "quoted": 241,
+    "booked": 132,
+    "median_response_hours": 4.800000004470348,
+    "late": 198,
+    "no_response": 37,
+    "immature_excluded": 0
+  },
+  "sources": [
+    {
+      "source": "Referral",
+      "leads": 89,
+      "responded": 78,
+      "quoted": 58,
+      "booked": 38,
+      "mean_response_hours": 15.289529914896075,
+      "lead_to_booking": 0.42696629213483145,
+      "quote_to_booking": 0.6551724137931034,
+      "conversion_rank": 1
+    },
+    {
+      "source": "Phone",
+      "leads": 87,
+      "responded": 78,
+      "quoted": 55,
+      "booked": 34,
+      "mean_response_hours": 12.582264957519678,
+      "lead_to_booking": 0.39080459770114945,
+      "quote_to_booking": 0.6181818181818182,
+      "conversion_rank": 2
+    },
+    {
+      "source": "Website",
+      "leads": 96,
+      "responded": 89,
+      "quoted": 65,
+      "booked": 37,
+      "mean_response_hours": 13.96516853884867,
+      "lead_to_booking": 0.3854166666666667,
+      "quote_to_booking": 0.5692307692307692,
+      "conversion_rank": 3
+    },
+    {
+      "source": "Social media",
+      "leads": 88,
+      "responded": 78,
+      "quoted": 63,
+      "booked": 23,
+      "mean_response_hours": 13.117948718512288,
+      "lead_to_booking": 0.26136363636363635,
+      "quote_to_booking": 0.36507936507936506,
+      "conversion_rank": 4
+    }
+  ]
+}

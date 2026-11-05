@@ -1,0 +1,97 @@
+[
+  {
+    "check": "leads schema",
+    "status": "PASS",
+    "detail": "CSV headers must match the documented schema."
+  },
+  {
+    "check": "leads completeness",
+    "status": "PASS",
+    "detail": "Required cells may not be empty."
+  },
+  {
+    "check": "leads timestamps",
+    "status": "PASS",
+    "detail": "All timestamps must parse and be at or before the fixed snapshot."
+  },
+  {
+    "check": "leads keys",
+    "status": "PASS",
+    "detail": "360 records; primary, foreign, and documented unique keys enforced."
+  },
+  {
+    "check": "activities schema",
+    "status": "PASS",
+    "detail": "CSV headers must match the documented schema."
+  },
+  {
+    "check": "activities completeness",
+    "status": "PASS",
+    "detail": "Required cells may not be empty."
+  },
+  {
+    "check": "activities timestamps",
+    "status": "PASS",
+    "detail": "All timestamps must parse and be at or before the fixed snapshot."
+  },
+  {
+    "check": "activities keys",
+    "status": "PASS",
+    "detail": "645 records; primary, foreign, and documented unique keys enforced."
+  },
+  {
+    "check": "quotes schema",
+    "status": "PASS",
+    "detail": "CSV headers must match the documented schema."
+  },
+  {
+    "check": "quotes completeness",
+    "status": "PASS",
+    "detail": "Required cells may not be empty."
+  },
+  {
+    "check": "quotes timestamps",
+    "status": "PASS",
+    "detail": "All timestamps must parse and be at or before the fixed snapshot."
+  },
+  {
+    "check": "quotes keys",
+    "status": "PASS",
+    "detail": "241 records; primary, foreign, and documented unique keys enforced."
+  },
+  {
+    "check": "bookings schema",
+    "status": "PASS",
+    "detail": "CSV headers must match the documented schema."
+  },
+  {
+    "check": "bookings completeness",
+    "status": "PASS",
+    "detail": "Required cells may not be empty."
+  },
+  {
+    "check": "bookings timestamps",
+    "status": "PASS",
+    "detail": "All timestamps must parse and be at or before the fixed snapshot."
+  },
+  {
+    "check": "bookings keys",
+    "status": "PASS",
+    "detail": "132 records; primary, foreign, and documented unique keys enforced."
+  },
+  {
+    "check": "Activity sequence",
+    "status": "PASS",
+    "detail": "0 activities before lead creation."
+  },
+  {
+    "check": "Quote validity",
+    "status": "PASS",
+    "detail": "0 quotes with invalid amount, sequence, or missing preceding response."
+  },
+  {
+    "check": "Booking validity",
+    "status": "PASS",
+    "detail": "0 mismatched quote/lead links or bookings before quote."
+  }
+]
